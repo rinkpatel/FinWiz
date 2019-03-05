@@ -140,5 +140,38 @@ namespace FinWiz
             return new JavaScriptSerializer().Serialize(result);
         }
 
+        [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string pwd_page(string[] pwd)
+        {
+            string[] result = { "", "", "" };
+            try
+            {
+                SqlParameter[] param = new SqlParameter[2];
+                param[0] = new SqlParameter("@reg_name", pwd[0]);
+                param[1] = new SqlParameter("@reg_conno", pwd[1]);
+            
+                DataTable dt = Dataacess.GetDataTable("pwd_page", CommandType.StoredProcedure, param);
+                if (dt != null && dt.Rows.Count > 0)
+                {
+                    result[0] = DefaultVar.success;
+                    //result[1] = dt.Rows[0]["username"].ToString();
+                }
+                else
+                {
+                    result[0] = "nodata";
+                    //no data
+                }
+
+            }
+            catch (Exception ex)
+            {
+                result[0] = DefaultVar.error;
+                result[1] = ex.ToString();
+            }
+
+            return new JavaScriptSerializer().Serialize(result);
+        }
+
     }
 }
