@@ -39,6 +39,7 @@
                             <asp:Label ID="lbl_repsw" runat="server" Text="re-password"></asp:Label>
                             <asp:TextBox ID="txt_repsw_type" runat="server"></asp:TextBox><br />
                             <asp:Label ID="tnx" runat="server" Text="Label"></asp:Label>
+                            <%--<asp:Label ID="tnx" runat="server" Text="Label"></asp:Label>--%>
                         </asp:WizardStep>
                     </WizardSteps>
                 </asp:Wizard>
