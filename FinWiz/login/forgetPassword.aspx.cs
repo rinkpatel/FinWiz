@@ -99,9 +99,7 @@ namespace FinWiz.login
                 if((txt_password_type.Text== txt_repsw_type.Text) && (txt_password_type.Text!=null) )
                 {
                     tnx.Text = "password has been reset successfully";
-                    string[] pwd = new string[2];
-                    pwd[0] = txt_password_type.Text;
-                    pwd[1] = txt_repsw_type.Text;
+                    wizService.pwd_page(txt_password_type.Text,txt_forget_email.Text);
                 }
             }
         }

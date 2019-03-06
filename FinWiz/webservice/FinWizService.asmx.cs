@@ -142,16 +142,16 @@ namespace FinWiz
 
         [WebMethod]
         [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-        public string pwd_page(string[] pwd)
+        public string pwd_page(string pwd,string email)
         {
             string[] result = { "", "", "" };
             try
             {
-                SqlParameter[] param = new SqlParameter[2];
-                param[0] = new SqlParameter("@reg_name", pwd[0]);
-                param[1] = new SqlParameter("@reg_conno", pwd[1]);
-            
-                DataTable dt = Dataacess.GetDataTable("pwd_page", CommandType.StoredProcedure, param);
+                SqlParameter[] pwdparam = new SqlParameter[2];
+                pwdparam[0] = new SqlParameter("@pwd", pwd);
+                pwdparam[1] = new SqlParameter("@email", email);
+
+                DataTable dt = Dataacess.GetDataTable("pwd_page", CommandType.StoredProcedure, pwdparam);
                 if (dt != null && dt.Rows.Count > 0)
                 {
                     result[0] = DefaultVar.success;
@@ -160,7 +160,7 @@ namespace FinWiz
                 else
                 {
                     result[0] = "nodata";
-                    //no data
+                    
                 }
 
             }
