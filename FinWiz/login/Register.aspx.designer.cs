@@ -13,300 +13,147 @@ namespace FinWiz {
     public partial class Register {
         
         /// <summary>
-        /// form1 control.
+        /// userTable control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.WebControls.Table userTable;
         
         /// <summary>
-        /// Table1 control.
+        /// lbl_user_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Table Table1;
+        protected global::System.Web.UI.WebControls.Label lbl_user_name;
         
         /// <summary>
-        /// lbl_reg_name control.
+        /// txt_user_name control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_name;
+        protected global::System.Web.UI.WebControls.TextBox txt_user_name;
         
         /// <summary>
-        /// txt_reg_name control.
+        /// lbl_password control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_name;
+        protected global::System.Web.UI.WebControls.Label lbl_password;
         
         /// <summary>
-        /// lbl_reg_conno control.
+        /// txt_password control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_conno;
+        protected global::System.Web.UI.WebControls.TextBox txt_password;
         
         /// <summary>
-        /// txt_reg_conno control.
+        /// lbl_repassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_conno;
+        protected global::System.Web.UI.WebControls.Label lbl_repassword;
         
         /// <summary>
-        /// lbl_reg_add control.
+        /// txt_repassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_add;
+        protected global::System.Web.UI.WebControls.TextBox txt_repassword;
         
         /// <summary>
-        /// txt_reg_add control.
+        /// lbl_email control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_add;
+        protected global::System.Web.UI.WebControls.Label lbl_email;
         
         /// <summary>
-        /// lbl_reg_email control.
+        /// txt_email control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_email;
+        protected global::System.Web.UI.WebControls.TextBox txt_email;
         
         /// <summary>
-        /// txt_reg_email control.
+        /// lbl_employeeId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_email;
+        protected global::System.Web.UI.WebControls.Label lbl_employeeId;
         
         /// <summary>
-        /// lbl_reg_username control.
+        /// txt_employeeId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_username;
+        protected global::System.Web.UI.WebControls.TextBox txt_employeeId;
         
         /// <summary>
-        /// txt_reg_username control.
+        /// Roles control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_username;
+        protected global::System.Web.UI.WebControls.DropDownList Roles;
         
         /// <summary>
-        /// lbl_reg_password control.
+        /// lbl_wages control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_password;
+        protected global::System.Web.UI.WebControls.Label lbl_wages;
         
         /// <summary>
-        /// txt_reg_password control.
+        /// txt_wages control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_password;
+        protected global::System.Web.UI.WebControls.TextBox txt_wages;
         
         /// <summary>
-        /// lbl_reg_repassword control.
+        /// btn_create control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_reg_repassword;
+        protected global::System.Web.UI.WebControls.Button btn_create;
         
         /// <summary>
-        /// txt_reg_repassword control.
+        /// btn_clear control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_reg_repassword;
-        
-        /// <summary>
-        /// Table2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Table Table2;
-        
-        /// <summary>
-        /// lbl_cmp_name control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_name;
-        
-        /// <summary>
-        /// txt_cmp_name control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_name;
-        
-        /// <summary>
-        /// lbl_cmp_add control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_add;
-        
-        /// <summary>
-        /// txt_cmp_add control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_add;
-        
-        /// <summary>
-        /// lbl_cmp_email control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_email;
-        
-        /// <summary>
-        /// txt_cmp_email control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_email;
-        
-        /// <summary>
-        /// lbl_cmp_conno control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_conno;
-        
-        /// <summary>
-        /// txt_cmp_conno control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_conno;
-        
-        /// <summary>
-        /// lbl_cmp_url control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_url;
-        
-        /// <summary>
-        /// txt_cmp_url control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_url;
-        
-        /// <summary>
-        /// lbl_cmp_regid control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_cmp_regid;
-        
-        /// <summary>
-        /// txt_cmp_regid control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_cmp_regid;
-        
-        /// <summary>
-        /// Label7 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label7;
-        
-        /// <summary>
-        /// TextBox7 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox7;
-        
-        /// <summary>
-        /// btn_cmp_reg control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_cmp_reg;
-        
-        /// <summary>
-        /// btn_cmp_cancel control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_cmp_cancel;
+        protected global::System.Web.UI.WebControls.Button btn_clear;
     }
 }
