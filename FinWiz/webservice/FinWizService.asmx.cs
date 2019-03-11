@@ -173,5 +173,36 @@ namespace FinWiz
             return new JavaScriptSerializer().Serialize(result);
         }
 
+        [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string delete_account(string EmpEmail)
+        {
+            string[] resu = { "", "", "" };
+            try
+            {
+                SqlParameter[] eparam = new SqlParameter[1];
+                eparam[0] = new SqlParameter("@email", EmpEmail);
+
+                DataTable dt = Dataacess.GetDataTable("Fiz_sp_delete_account", CommandType.StoredProcedure, eparam);
+                if (dt != null && dt.Rows.Count > 0)
+                {
+                    resu[0] = DefaultVar.success;
+                    //result[1] = dt.Rows[0]["username"].ToString();
+                }
+                else
+                {
+                    resu[0] = "nodata";
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+                resu[0] = DefaultVar.error;
+                resu[1] = ex.ToString();
+            }
+
+            return new JavaScriptSerializer().Serialize(resu);
+        }
     }
 }
