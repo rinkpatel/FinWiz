@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="FinWiz.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="CSS/MasterCSS.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <header>
+                <h1>FIN WIZ</h1>
+            </header>
+            <section>
+                <nav>
+                    <ul>
+                      <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Users</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click">Add Expenses</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton3" runat="server">Verify Expenses</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton4" runat="server">Expence History</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton5" runat="server">Payroll</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton6" runat="server">Genrate Payroll</asp:LinkButton></li>
+                      <li><asp:LinkButton ID="LinkButton7" runat="server">Payroll History</asp:LinkButton></li>
+                    </ul>
+                </nav>
+                <article>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        <h1>This is the Default master page</h1>
+                    </asp:ContentPlaceHolder>
+                </article>
+            </section>
+            <footer>
+                <p>&#169; FIN WIZ 2019</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>
