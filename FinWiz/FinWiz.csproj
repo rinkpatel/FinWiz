@@ -72,6 +72,7 @@
   <ItemGroup>
     <Content Include="CSS\MasterCSS.css" />
     <Content Include="EmpImg\default.png" />
+    <Content Include="login\AddUser.aspx" />
     <Content Include="login\Delete.aspx" />
     <Content Include="login\forgetPassword.aspx" />
     <Content Include="temp2.aspx" />
@@ -83,6 +84,13 @@
     <Content Include="webservice\WebService.asmx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="login\AddUser.aspx.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login\AddUser.aspx.designer.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+    </Compile>
     <Compile Include="login\Delete.aspx.cs">
       <DependentUpon>Delete.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
