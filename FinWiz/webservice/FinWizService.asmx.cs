@@ -54,7 +54,7 @@ namespace FinWiz
                 {
                     result[0] = "nodata";
                 }
-
+                //rink
             }
             catch (Exception ex)
             {
