@@ -204,5 +204,40 @@ namespace FinWiz
 
             return new JavaScriptSerializer().Serialize(resu);
         }
+
+        [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string add_user(string[] data)
+        {
+            string[] result1 = { "", "", "" };
+            try
+            {
+                SqlParameter[] param = new SqlParameter[13];
+                param[0] = new SqlParameter("@user_name", data[0]);
+                param[1] = new SqlParameter("@password", data[1]);
+                param[2] = new SqlParameter("@email", data[2]);
+                param[3] = new SqlParameter("@role", data[3]);
+                param[4] = new SqlParameter("@current_wages", data[4]);
+            
+                DataTable dt = Dataacess.GetDataTable("add_user", CommandType.StoredProcedure, param);
+                if (dt != null && dt.Rows.Count > 0)
+                {
+                    result1[0] = DefaultVar.success;
+                    result1[1] = dt.Rows[0]["username"].ToString();
+                }
+                else
+                {
+                    result1[0] = "nodata";
+                }
+
+            }
+            catch (Exception ex)
+            {
+                result1[0] = DefaultVar.error;
+                result1[1] = ex.ToString();
+            }
+
+            return new JavaScriptSerializer().Serialize(result1);
+        }
     }
 }
