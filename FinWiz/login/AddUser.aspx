@@ -35,12 +35,12 @@
                 <asp:TextBox ID="txt_email" runat="server"/>              
 
         </div>
-        <div >
+      <%--  <div >
             <asp:Label ID="lbl_employeeId" runat="server" Text="Employee-Id :"></asp:Label>
 
                 <asp:TextBox ID="txt_employeeId" runat="server"/>               
 
-        </div>
+        </div>--%>
         <div >
             <asp:DropDownList ID="Roles" runat="server">
                        <asp:ListItem Enabled="true" Text="Select Role" Value="-1"></asp:ListItem>
@@ -61,6 +61,7 @@
         <asp:Button ID="btn_createid" runat="server" OnClick="btn_create" Text="Add User" />
         <asp:Button ID="btn_clearid" runat="server" Text="Clear Data" OnClick="btn_clear" />
         </div>
+        <asp:Label ID="lbl_msg" runat="server" Text=""></asp:Label>
     </div>
     </form>
 </body>

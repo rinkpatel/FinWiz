@@ -212,7 +212,7 @@ namespace FinWiz
             string[] result1 = { "", "", "" };
             try
             {
-                SqlParameter[] param = new SqlParameter[13];
+                SqlParameter[] param = new SqlParameter[5];
                 param[0] = new SqlParameter("@user_name", data[0]);
                 param[1] = new SqlParameter("@password", data[1]);
                 param[2] = new SqlParameter("@email", data[2]);
@@ -223,7 +223,7 @@ namespace FinWiz
                 if (dt != null && dt.Rows.Count > 0)
                 {
                     result1[0] = DefaultVar.success;
-                    result1[1] = dt.Rows[0]["username"].ToString();
+                    //result1[1] = dt.Rows[0]["username"].ToString();
                 }
                 else
                 {
