@@ -1,0 +1,252 @@
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\FinWiz.dll.config
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\FinWiz.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\FinWiz.pdb
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\csc.exe
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\csc.exe.config
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\csc.rsp
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\csi.exe
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\csi.rsp
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.AppContext.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\vbc.exe
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\vbc.exe.config
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\vbc.rsp
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amar\Desktop\FinWiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+C:\Users\Amar\Desktop\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+C:\Users\Amar\Desktop\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+C:\Users\Amar\Desktop\FinWiz\FinWiz\obj\Debug\FinWiz.dll
+C:\Users\Amar\Desktop\FinWiz\FinWiz\obj\Debug\FinWiz.pdb
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\FinWiz.dll.config
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\FinWiz.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\FinWiz.pdb
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\csc.exe
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\csc.exe.config
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\csc.rsp
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\csi.exe
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\csi.rsp
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.AppContext.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\vbc.exe
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\vbc.exe.config
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\vbc.rsp
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\obj\Debug\FinWiz.dll
+C:\Program Files (x86)\IIS\fwiz\fwiz\FinWiz\obj\Debug\FinWiz.pdb
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\FinWiz.dll.config
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\FinWiz.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\FinWiz.pdb
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\csc.exe
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\csc.exe.config
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\csc.rsp
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\csi.exe
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\csi.rsp
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.AppContext.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\vbc.exe
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\vbc.exe.config
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\vbc.rsp
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amar\Desktop\fwiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+C:\Users\Amar\Desktop\fwiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+C:\Users\Amar\Desktop\fwiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+C:\Users\Amar\Desktop\fwiz\FinWiz\obj\Debug\FinWiz.dll
+C:\Users\Amar\Desktop\fwiz\FinWiz\obj\Debug\FinWiz.pdb
+W:\FinWiz\FinWiz\bin\FinWiz.dll.config
+W:\FinWiz\FinWiz\bin\FinWiz.dll
+W:\FinWiz\FinWiz\bin\FinWiz.pdb
+W:\FinWiz\FinWiz\bin\roslyn\csc.exe
+W:\FinWiz\FinWiz\bin\roslyn\csc.exe.config
+W:\FinWiz\FinWiz\bin\roslyn\csc.rsp
+W:\FinWiz\FinWiz\bin\roslyn\csi.exe
+W:\FinWiz\FinWiz\bin\roslyn\csi.rsp
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\FinWiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\FinWiz\FinWiz\bin\roslyn\System.AppContext.dll
+W:\FinWiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+W:\FinWiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+W:\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\FinWiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+W:\FinWiz\FinWiz\bin\roslyn\vbc.exe
+W:\FinWiz\FinWiz\bin\roslyn\vbc.exe.config
+W:\FinWiz\FinWiz\bin\roslyn\vbc.rsp
+W:\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+W:\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+W:\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\FinWiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+W:\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+W:\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+W:\FinWiz\FinWiz\obj\Debug\FinWiz.dll
+W:\FinWiz\FinWiz\obj\Debug\FinWiz.pdb
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll.config
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\FinWiz.pdb
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe.config
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.rsp
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.exe
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.rsp
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.AppContext.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe.config
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.rsp
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.dll
+C:\Users\shahe\source\repos\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.pdb
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll.config
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\FinWiz.pdb
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe.config
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.rsp
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.exe
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.rsp
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.AppContext.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe.config
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.rsp
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.dll
+C:\Users\Aarya\Desktop\FinWizLatest\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.pdb
+W:\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll.config
+W:\FinWiz\FinWiz\FinWiz\bin\FinWiz.dll
+W:\FinWiz\FinWiz\FinWiz\bin\FinWiz.pdb
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.exe.config
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\csc.rsp
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.exe
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\csi.rsp
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.AppContext.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Collections.Immutable.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\System.Reflection.Metadata.dll
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.exe.config
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\vbc.rsp
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe
+W:\FinWiz\FinWiz\FinWiz\bin\roslyn\VBCSCompiler.exe.config
+W:\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\FinWiz\FinWiz\FinWiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csprojAssemblyReference.cache
+W:\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CoreCompileInputs.cache
+W:\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.csproj.CopyComplete
+W:\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.dll
+W:\FinWiz\FinWiz\FinWiz\obj\Debug\FinWiz.pdb

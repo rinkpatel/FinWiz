@@ -22,13 +22,13 @@ namespace FinWiz {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// lbl_username control.
+        /// Image1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_username;
+        protected global::System.Web.UI.WebControls.Image Image1;
         
         /// <summary>
         /// txt_username control.
@@ -40,13 +40,13 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_username;
         
         /// <summary>
-        /// lbl_password control.
+        /// RFVtxt_username control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_password;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_username;
         
         /// <summary>
         /// txt_password control.
@@ -56,6 +56,24 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_password;
+        
+        /// <summary>
+        /// RFVtxt_password control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_password;
+        
+        /// <summary>
+        /// CheckBox1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox CheckBox1;
         
         /// <summary>
         /// btn_login control.
@@ -76,21 +94,12 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.Button btn_register;
         
         /// <summary>
-        /// forget_pwd control.
+        /// LinkButton1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink forget_pwd;
-        
-        /// <summary>
-        /// lbl_result control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_result;
+        protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
     }
 }

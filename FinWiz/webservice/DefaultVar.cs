@@ -12,6 +12,9 @@ public class DefaultVar
     {
         
     }
+    public static string lastPayrollDate = null;
+    public static string userrole = null;
+    public static string usersession = null;
     public static string admin_id = "jp_admin_id";
     public static string admin_name = "jp_admin_name";
     public static string success = "success";
@@ -21,10 +24,4 @@ public class DefaultVar
     public static string phone = "phone";
     public static string no_info = "No Information Provided.";
     public static string no_match = "nomatch";
-    public static int randNumber;
-
-    public void genRandNumber()
-    {
-        randNumber= new Random().Next(1000, 9999);
-    } 
 }

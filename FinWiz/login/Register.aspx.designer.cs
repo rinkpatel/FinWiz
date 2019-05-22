@@ -49,6 +49,15 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_reg_name;
         
         /// <summary>
+        /// RFVtxt_reg_name control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_name;
+        
+        /// <summary>
         /// lbl_reg_conno control.
         /// </summary>
         /// <remarks>
@@ -65,6 +74,24 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_reg_conno;
+        
+        /// <summary>
+        /// RFVtxt_reg_conno control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_conno;
+        
+        /// <summary>
+        /// REVtxt_reg_conno control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator REVtxt_reg_conno;
         
         /// <summary>
         /// lbl_reg_add control.
@@ -103,6 +130,24 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_reg_email;
         
         /// <summary>
+        /// RFVtxt_reg_email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_email;
+        
+        /// <summary>
+        /// REVtxt_reg_email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator REVtxt_reg_email;
+        
+        /// <summary>
         /// lbl_reg_username control.
         /// </summary>
         /// <remarks>
@@ -119,6 +164,15 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_reg_username;
+        
+        /// <summary>
+        /// RFVtxt_reg_username control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_username;
         
         /// <summary>
         /// lbl_reg_password control.
@@ -139,6 +193,15 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_reg_password;
         
         /// <summary>
+        /// RFVtxt_reg_password control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_password;
+        
+        /// <summary>
         /// lbl_reg_repassword control.
         /// </summary>
         /// <remarks>
@@ -155,6 +218,24 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_reg_repassword;
+        
+        /// <summary>
+        /// RFVtxt_reg_repassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_reg_repassword;
+        
+        /// <summary>
+        /// CVPassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator CVPassword;
         
         /// <summary>
         /// Table2 control.
@@ -182,6 +263,15 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_cmp_name;
+        
+        /// <summary>
+        /// RFVtxt_cmp_name control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_cmp_name;
         
         /// <summary>
         /// lbl_cmp_add control.
@@ -220,6 +310,24 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_cmp_email;
         
         /// <summary>
+        /// RFVtxt_cmp_email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_cmp_email;
+        
+        /// <summary>
+        /// REVtxt_cmp_email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator REVtxt_cmp_email;
+        
+        /// <summary>
         /// lbl_cmp_conno control.
         /// </summary>
         /// <remarks>
@@ -236,6 +344,24 @@ namespace FinWiz {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txt_cmp_conno;
+        
+        /// <summary>
+        /// RFVtxt_cmp_conno control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_cmp_conno;
+        
+        /// <summary>
+        /// REVtxt_cmp_conno control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator REVtxt_cmp_conno;
         
         /// <summary>
         /// lbl_cmp_url control.
@@ -274,22 +400,22 @@ namespace FinWiz {
         protected global::System.Web.UI.WebControls.TextBox txt_cmp_regid;
         
         /// <summary>
-        /// Label7 control.
+        /// RFVtxt_cmp_regid control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label7;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RFVtxt_cmp_regid;
         
         /// <summary>
-        /// TextBox7 control.
+        /// REVtxt_cmp_regid control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox7;
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator REVtxt_cmp_regid;
         
         /// <summary>
         /// btn_cmp_reg control.

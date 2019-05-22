@@ -15,6 +15,9 @@ namespace FinWiz
 
         }
 
+        [System.Web.UI.Themeable(false)]
+        public virtual string ValidationGroup { get; set; }
+
         protected void btn_cmp_reg_Click(object sender, EventArgs e)
         {
             string[] data = new string[13];
@@ -33,7 +36,7 @@ namespace FinWiz
             data[12] = txt_cmp_regid.Text;
 
             wizService.cmp_register(data);
-
+            Response.Redirect("~/login/index.aspx");
         }
 
         protected void btn_cmp_cancel_Click(object sender, EventArgs e)

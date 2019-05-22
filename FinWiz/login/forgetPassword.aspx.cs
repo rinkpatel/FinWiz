@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
 using System.Configuration;
 using System.Net;
 using System.Net.Mail;
@@ -7,14 +12,13 @@ namespace FinWiz.login
 {
     public partial class forgetPassword : System.Web.UI.Page
     {
-
         FinWizService wizService = new FinWizService();
         static string str_body = "";
         static int n = new Random().Next(1000, 9999);
         static Boolean verified = false;
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+
         }
 
         public void SendEmail(string emailBody)
@@ -38,8 +42,8 @@ namespace FinWiz.login
             NetworkCredential myCreds = new NetworkCredential("Finacialwiz@gmail.com", "finwiz123", "");
             smtpClient.Credentials = myCreds;
             smtpClient.Send(message);
-           ClientScript.RegisterClientScriptBlock(this.GetType(), "InquirySent","", true);
-            
+            ClientScript.RegisterClientScriptBlock(this.GetType(), "InquirySent", "", true);
+
         }
 
         protected void Unnamed1_FinishButtonClick(object sender, EventArgs e)
@@ -59,14 +63,20 @@ namespace FinWiz.login
                     {
                         SendEmail(lbl_msg.ToString());
                         Wizard1.MoveTo(this.step2);
-                        
+
                     }
 
                 }
                 else
                 {
-                    //clearform();
-                    lbl_msg.Text = "email is wrong";
+                    //clearform();                    
+                    if (txt_forget_email.Text == "")
+                    {
+                        lbl_msg.Text = "Please Enter You email ID...";
+                    }
+                    else {
+                        lbl_msg.Text = "Invalid Email ID...";
+                    }
                     Wizard1.MoveTo(this.Step1);
                 }
             }
@@ -74,13 +84,14 @@ namespace FinWiz.login
             {
                 Wizard1.MoveTo(this.step3);
             }
-           
+
         }
 
         protected void btn_step2_veriCode_Click(object sender, EventArgs e)
         {
             Console.WriteLine(n);
-            if (txt_step2_veriCode.Text == n.ToString())            {
+            if (txt_step2_veriCode.Text == n.ToString())
+            {
                 verified = true;
                 Wizard1.MoveTo(this.step3);
                 txt_username_retrive.Text = txt_forget_email.Text;
@@ -94,15 +105,21 @@ namespace FinWiz.login
 
         protected void Wizard1_FinishButtonClick(object sender, System.Web.UI.WebControls.WizardNavigationEventArgs e)
         {
-            if (verified==true)
+            if (verified == true)
             {
-                if((txt_password_type.Text== txt_repsw_type.Text) && (txt_password_type.Text!=null) )
+                if ((txt_password_type.Text == txt_repsw_type.Text) && (txt_password_type.Text != null))
                 {
-                    tnx.Text = "password has been reset successfully";
-                    wizService.pwd_page(txt_password_type.Text,txt_forget_email.Text);
+                    tnx.Text = "Password has been reset successfully";
+                    string result= wizService.pwd_page(txt_password_type.Text, txt_forget_email.Text);
+                    if (result.Contains("success")) {
+                        Response.Redirect("~/login/index.aspx");
+                    }
+                    else
+                    {
+                        tnx.Text = "Please Enter Valid Password !!!";
+                    }
                 }
             }
         }
     }
-
 }
